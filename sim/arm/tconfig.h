@@ -1,0 +1,1 @@
+../.././sim/arm/tconfig.in
